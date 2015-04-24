@@ -1,12 +1,14 @@
-[
-  {
-    "id": 1,
-    "cycle_time": 200
-  },
-  {
-    "id": 2,
-    "cycle_time": 300,
-    "copies": 2
-  }
-]
+{
+  "plans": [
+    {
+      "id": 1,
+      "cycle_time": 200
+    },
+    {
+      "id": 2,
+      "cycle_time": 300,
+      "copies": 2
+    }
+  ]
+}
 
